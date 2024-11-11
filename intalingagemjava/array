@@ -1,0 +1,32 @@
+public class 111124 {
+    
+}
+
+ArrayList<E> iadades = new ArrayList<E>();
+
+import java.util.ArrayList;
+
+public class ArmazenaCoisas{
+    public static vooid main(String[] args) {
+        ArrayList<string> nomes = new ArrayList<string>();
+        nomes.add("Maria");
+        nomes.add("josé");
+        nomes.add("jeremias")
+
+        for(int i=0; i< nomes.size(; i++)){
+            System.out.println(nomes.get(i));
+        }
+    }
+}
+
+for(String n : nomes.remove(index)){
+    System.out.println(n);
+}
+
+for(String n : nomes.removeFirst()){
+    System.out.println(n);
+}
+
+for(String n : nomes.removeLast()){
+    System.out.println(n);
+}
